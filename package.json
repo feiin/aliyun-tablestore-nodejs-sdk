@@ -2,7 +2,7 @@
   "name": "tablestore-stream",
   "main": "index.js",
   "description": "TableStore SDK for JavaScript(support stream api)",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "devDependencies": {
     "mocha": "^3.2.0",
     "coveralls": "^2.13.1",
