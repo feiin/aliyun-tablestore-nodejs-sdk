@@ -10,12 +10,12 @@
  - 阿里云表格存储是阿里云自主研发的NoSQL数据存储服务，提供海量结构化数据的存储和实时访问。
 
 ## 版本
- - 当前版本：4.0.11
+ - 当前版本：1.0.11 (基于tablestore 4.0.11)
 
 ## 安装
 
 ```sh
-npm install tablestore
+npm install tablestore-stream
 ```
 
 ## 使用方法
